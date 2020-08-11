@@ -2,7 +2,9 @@
 ::StoryData 
 {
   "start": "PassageName",
-  "zoom": 1  
+  "zoom": 1,
+  "format": "SugarCube",
+  "format-version": "2.33.1"
 }
 
 ::StoryTitle 
