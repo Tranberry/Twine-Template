@@ -1,4 +1,5 @@
 <!-- tweego -w -o index.html Media Main Days -->
+<!-- TODO: check format and format-version! -->>
 ::StoryData 
 {
   "start": "PassageName",
@@ -6,12 +7,11 @@
   "format": "SugarCube",
   "format-version": "2.33.1"
 }
-
-::StoryTitle 
+:: StoryTitle 
 My new story
 
-::StoryInit
+:: StoryInit
 /* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). */
 
 
-::StoryMenu
+:: StoryMenu
