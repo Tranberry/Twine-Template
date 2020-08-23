@@ -1,7 +1,8 @@
 # Directory for original files
+
 Here goes binary files from sowftare like **photoshop**, **affinity designer**, **audacity** and otheres.
 
-### Meant to be added to .gitignore 
+## Meant to be added to .gitignore
 
     # Progrom specific files.
     .originals/**
@@ -15,4 +16,4 @@ Here goes binary files from sowftare like **photoshop**, **affinity designer**, 
     # HTML are compiled except the head.html which inserts favicons
     # among other things.
     *.html
-    !.dist/head.html
+    !.dist/head.htm

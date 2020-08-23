@@ -1,7 +1,8 @@
 # Directory for temp files
+
 A place for temporary stuff.
 
-### Meant to be added to .gitignore 
+## Meant to be added to .gitignore
 
     # Progrom specific files.
     .originals/**
