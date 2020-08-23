@@ -15,4 +15,4 @@ Would result in this **if** you are on a *Windows(64)* machine and had version *
     Tweego (a Twee compiler in Go) [http://www.motoslave.net/tweego/]
     Copyright (c) 2014-2020 Thomas Michael Edwards. All rights reserved.
 
-[a relative link](specialPassages.md)
+[Special Passages](specialPassages.md)
