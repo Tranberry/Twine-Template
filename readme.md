@@ -4,7 +4,7 @@
 
 You'll need to have Tweego installed and added to the *enviroment path* so if you print <code>tweego -v</code> in your shell it should say wich version you have installed.
 
-example:
+Example:
 
     tweego -v
 
