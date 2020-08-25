@@ -1,6 +1,6 @@
 <!-- tweego -w -o index.html Media Main Days -->
 <!-- TODO: check format and format-version! -->
-::StoryData 
+:: StoryData 
 {
   "start": "PassageName",
   "zoom": 1,
