@@ -1,11 +1,10 @@
 <!-- tweego -w -o index.html Media Main Days -->
-<!-- TODO: check format and format-version! -->>
+<!-- TODO: check format and format-version! -->
 ::StoryData 
 {
   "start": "PassageName",
   "zoom": 1,
-  "format": "SugarCube",
-  "format-version": "2.33.1"
+  "format": "SugarCube"
 }
 :: StoryTitle 
 My new story
