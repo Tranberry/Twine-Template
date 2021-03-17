@@ -2,10 +2,13 @@
 <!-- TODO: check format and format-version! -->
 :: StoryData 
 {
-  "start": "PassageName",
+  "start": "NameOfStartingPassage",
+  "ifid": "fillWithIFID",
   "zoom": 1,
-  "format": "SugarCube"
+  "format": "SugarCube",
+  "format-version": "2.34.1"
 }
+
 :: StoryTitle 
 My new story
 
